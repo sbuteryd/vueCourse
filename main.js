@@ -2,6 +2,8 @@ const app = new Vue({
     el:"#app",
     data:{
         product:"Socks",
-        description:"一对温暖，模糊的袜子"
+        image:"./assets/vmSocks-green-onWhite.jpg",
+        altText:"A pair of socks",
+        baidu:"https://www.baidu.com/"
     }
 })
