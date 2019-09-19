@@ -4,6 +4,7 @@ const app = new Vue({
         product:"Socks",
         image:"./assets/vmSocks-green-onWhite.jpg",
         altText:"A pair of socks",
-        baidu:"https://www.baidu.com/"
+        inStock:true,
+        sale:false
     }
 })
